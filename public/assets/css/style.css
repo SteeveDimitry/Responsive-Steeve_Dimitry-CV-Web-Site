@@ -64,6 +64,7 @@ body.dark-theme {
 
 html {
     scroll-behavior: smooth;
+    pointer-events: none;
 }
 
 ::-moz-selection {
